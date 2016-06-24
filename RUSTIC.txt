@@ -1,0 +1,40 @@
+简要历史
+大约在公元前七世纪，罗马人从尚未完成的希腊字母表中借鉴来了字母表的概念，并将其加以完善，从而形成了伊特鲁里亚字母表(Etruscan Alphabet)。这一经罗马人扩充和添加过的大写字母合集绵延使用了好几个世纪。到公元前一世纪，这套字母的大写形式（如我们今天在纪念碑等的铭文上看到的那样）逐渐形成了复杂的衬线(serif)，进而具有了一种书法上的吸引力。然而这一套名为Roman Square Capital的字体的，极为细致的笔画，以及为了完成一个字母所需耗费的时间和书面的尺幅，断送了它成为一种使用且流行的字体的命运。最终，到了公元六世纪，这套字体逐渐被封存进了历史的故纸堆中。
+为了更有效率地完成一些工作，一世纪的抄写员们受到Roman Square Capital的启发，将他们日用的草书字体加以改进，在其中融入一些RSC的特色，并附上精致的衬线，从而创造了一种名为Roman Rustic的字体。这一字体迅速成为了一种倍受欢迎的抄写书体。随着RSC逐渐被人们遗忘，越来越多的人开始采用新的字体，这一套有着相对小巧的上/下延部分1（ascender/descender）的大写字体逐渐产生了众多的变体。到一世纪结束前，Roman Rustic已经成了帝国的标准书体，而这也正是中世纪时代的开始。
+
+ 
+图73.【罗马，梵蒂冈宗座图书馆，Codex Vaticanus Palatinus 1631(P), 第121面右侧】一份四或五世纪的文本，非常棒的抄写员写就，每一处竖直笔画的转笔都完成得非常仔细，从而每一笔由上至下的粗细变化都非常的均匀。 
+VNVMEXVIAPEDEMVINCLISINVESTERECINCTATESTATVRMORITVRADEOS·ETCONSCIAFATISIDERA·TUMSIQVODNONAEQVOFOEDEREAMANTCVRAENVMENHABET·IVSTVMQVEMEMORQVEPNOXERAT·ETPLACIDVMCARPEBANTFESSASOPORE
+ 
+
+ 
+图74.【同上，第131面左侧】笔尖稍窄的一份文本，可能是另一位抄写员写就，字体的书法以为稍轻但同样    。
+ESTDORYCLICONIVNX·DIVINISIGNADECORIS·ARDENTISQVENOTATEOCVLOSQVISPIRITVSILLI·QVISVOLTVS·VOCISQVESONVSETGRESSVSEVNTI
+ 
+
+ 
+图75.【佛罗伦撒, 美蒂奇洛伦佐图书馆, Ms. Plut.39.1, 第158面左侧】一份五世纪晚期的文档，具体可能是在494年之前的某一时间，形式上略显松散，书法气稍淡。LYDORVMQ·MANVM·COLLECTOSARMATAGRESTIS·QVIDDEVBITAS·NVNCTEMPVSEQVOSNVNCPOSCERECVRRYS·RVMPEMORASOMNIS·ETTVRBATAARRIPECASTRA·
+ 
+
+ 
+图76. 【罗马，梵蒂冈宗座图书馆, Ms. Vat. Lat. 3876, 第3面右侧】同图73所述，但垂直笔画没有转笔。450年到500年间。
+
+FORMONSVM·CORYDON·PASTOR’ARDEBAT·ALEXINDELICIAS·DOMINI·NEC·QVID·SPERARET·HABEBATTANTVM·INTER·DENSAS·VMBOSA·CACVMINA·FAGOSADSIDVAE·VENIEBAT·IBI·HAEC·INCONDITA·SOLVS 
+
+
+图77. 【图73、74、75的部分细节】字母装饰： 字母的装饰非常有限且颇为讲究。大写的G仅在文本最末行以附带拖长的descender形式出现，故而descender可以流畅地向下延伸。当大写的Q出现在最末行时，它的尾部也有足够的空间让其延展。然而，文本中看起来像是具有延长的尾部的Y的字母，其实是右侧倾斜笔画溢出部分稍加夸张的大写V（另一个类似的例子请参看图76中的L）。出现在文档第一行紧邻右侧装订线的字母也被加以修饰。而在左侧的装订线处，衬线则被延伸。字母V的主笔划或是A的衬线有时可以超出文本边界。但并不是每一处满足如是条件的字母都进行了处理，平均下来，大概是每一页不超过两处装饰，当然，不超过一处会更好。所谓字母装饰正是因为少见、低调且又不影响文档中字母的排版才显得愈加引人。
+ 
+字体特点：出于快速书写的目的，在书写Roman Rustic时，笔尖的角度维持在45°到70°之间。且字母顶部的拱形稍微倾斜，对角线上的笔画稍有弯曲。Roman Rustic的A也可以从左侧的笔画开始写，而M则是从左至右依次完成。字母整体的高度通常仅只被B、F、L（有时也有E和P）打破。在2、3世纪，F有时可以下延到基线以下，而M则可以横跨较长的一段距离。早期的G的尾部的写法很像Q的尾部。在晚期的一些优化过的字体版本里，G通常以两种形式出现：出现在文段中间的没有descender的形式，以及用在文段最末行的形式。字母之间分的比较开，但是单词之间并没有额外的隔断（偶尔会在单词间分隔出的中部打上一个小点）。通常跨行时单词不会被切断，必要时则按音节分割(当然，在最初的一些文本里，单词的分割会按照希腊语的习惯在元音之后断开)。
+
+
+
+
+大写字母：由于这套字体是一套纯大写字体，因此在段落开头处的initial只会通过比其他字母稍微写大一号来区分，所使用的笔尖尺寸依然是相同的。同时，也有一定可能会加以装饰。通常一个新的段落会从紧贴左侧装订线处开始，同样与上一段之间也不会留有空间。
+拓展阅读：大多数的书都只包含Roman Rustic的一个版本并加以简要讨论。在这里我会推荐Thompson的Greek and Latin Palaeography，Lowe的Codices Latini Antiquiores和 Handwriting，Morison的Politics and Scripts，Degering的Lettering，Fairbank的The Story of Handwriting，Anderson的The Art of Writing Forms，以及Weitzman的Late Antique and Early Christian Book Illumination，对于有关字体本身的讨论，我推荐如上的Thompson、Morison、Fairbank和Anderson的书，以及Jhon的 Latin Palaeography和Ullman的 Ancient Writing and Its Influence。
+ 
+
+图78. 【图75细节】一点小小的设计，偶尔出现在页面大的空白处以及文段标题上，通常只是正式行文中附带的小小动作，具有典型的潦草意味。插图9中的例子是一个free hand风格的变体。
+ 
+
+
+
