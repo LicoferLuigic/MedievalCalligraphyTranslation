@@ -1,0 +1,20 @@
+﻿简要历史：
+在十一至十二世纪间Early Gothic日渐夸张的造型与浮夸的风格最终导致了Gothic Textura字体的诞生，在这门字体中，对词句整体布局的考量逐渐超越对单个字母的考量，成为抄写员在绘制经文是考虑的主要因素。不论是在何处的文本中，字母中的笔画都被处理成外形与风格均极为相似的纵向笔画，从而大大削减了这一字体的辨识度。
+Gothic Textura大约在十三世纪早期的北欧与英格兰等地流行开来。英格兰的抄写员们在这一过程中促成了一门新字体——Gothic Textura Prescisus的诞生，这种新字体中所有的纵向笔画几乎都是以一个接近平行的扁平底部结束，这也是区分Gothic Textura Prescisus与Gothic Textura Quardata的唯一特征。两种字体在英格兰和欧洲北部都很流行。而这两种字体出现的先后顺序却并没有引起学界多少注意，但在众多说法中，有一种观点认为是Textura Prescisus现在英格兰起源，随后被带往欧洲大陆，并在今天的法国北部地区促成了Textura Quardata的诞生。
+Gothic Textura Prescisus vel Sine Pedibus，在它诞生之初，便足以被称为是书法史上的一门绝技，但在随后的哥特字体的发展中，它的魅力也逐渐消减。最终，随着文艺复兴风潮的到来，以及随之而来的全新的艺术理念，Gothic Textura这一史诗性的字体渐渐褪色，躲入了历史的幕后。然而这两门字体却以印刷字体的形式继续在历史的舞台上发挥着余温。然而由于TQ菱形笔画的存在，其“编织物一般”的视觉冲击更为强力，这也使得它在转换为印刷字体是更具优势，而TP，就像它的名字那样，“without foot”而难以立足，最终败下阵来，被历史所遗弃。
+
+
+图126. [ 牛津，博德里安图书馆，Ms. Douce 366. 第64版左页 ] 1300年左右东盎格鲁地区的墨迹，文本选自Ormesby Psalter（圣经雅歌篇44-45:14-18）:
+Fimbriis aureis: circumamicta uarietatib-/ Adducentur regi uirgines post eam: proxy/ me eius afferentur tibi/ Afferentur in Leticia (et) exultation: adducen/ tur in templum regis./ Pro patrib(us) tuis nati sunt tibi filii: confli/ tues eos principes super omnem terram./ Memores erunt nomims tui domine: mom/ nigeneratione (et) generationem.
+
+
+图127. [ 柏林，普鲁士国家文化遗产图书馆，Lat. 2°，第384版右页 ]1400年前后一位德国书法大师的作品（摘自雅歌5:2-3）：
+UErba mea auribus/ percipe domine intel/ lige clamorem meum/ intende von dranoms mee:.
+
+
+
+
+
+字体特色：因为这门字体与TQ极为相似，所以我建议你参阅TQ章节下的字体特色部分。两者间唯一较为显著的区别在大多数小写字母主笔画的底端——区别于TQ，在TP中多数字母是以扁平的底部收尾，而没有TQ中额外添加的斜向“钻石形”笔画。图126就是这一特色非常具有表现性的范本。图127则是出于它更为强烈的扁平足部笔画特色而被收录进来。a、c、d、e、y等通常意义上不具有垂直向下从而能构造类似的“足部笔画”的笔画部件的字母也被进行了同样的处理，从而使得这些字母看起来几乎像是原字母的抽象表示而非字母本身。
+为了与底部相照应，笔画的上延部分（顶部）也被处理成了平行的末端。为创造这样的效果所需运用的技术已在上页的流程图示中注明。抄写员们往往会根据自己的习惯选择使用趁手的方法。仔细观察图127中第一个单词里的字母b，你就可以发现抄写员选择的是第一种（即完成外围后填充内部），因为书者太过匆忙，b上延部分还未来得及填满内部。
+

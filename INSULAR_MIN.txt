@@ -1,0 +1,58 @@
+﻿简要历史：
+在爱尔兰的抄写员们在六世纪创造Insular Majuscule的同时，这些爱尔兰人便萌发/催生出了对于一款相对而言不那么正式、更适用于平装书籍的抄写的字体的需要。使用Roman Half-Uncial中的草书字体的元素，他们如法炮制此前创造大写字体的手段，创造了一种新的字体。运用在大写字体中的独特的衬线也被套用到了小写字体中——虽然这对于提高书写速度、提升使用效率而言无疑是个累赘，但这显然是爱尔兰独特书法特色对这群书法家们的影响。到六世纪中叶，爱尔兰小写体（Irish Minuscule）已经取得了极为广泛的人气，并被爱尔兰的僧人们广为传授——这些僧人早从565年前后起便已在苏格兰和北英格兰传教。盎格鲁撒克逊的抄写员们也如法炮制了他们的老师的字体，于是爱尔兰小写体（Irish Minuscule）与盎格鲁-撒克逊小写体（Anglo-Saxon Minuscule）也被合称为海岛小写体（Insular Minuscule）。到七世纪中叶，这一字体已通行整个英格兰群岛。同时，这一字体也被爱尔兰与盎格鲁-撒克逊征服者们一并带到了欧洲大陆，讽刺性的完成了一次Roman Half-Uncial的回归。
+Insular Minuscule往后持续兴旺发展着。在经历了九世纪席卷整个欧洲并随后越过海峡波及英格兰的书法改革后，盎格鲁-撒克逊的抄写员们渐渐地不再使用Insular Minuscule作为书写盎格鲁-撒克逊文档的字体。随着1066年诺曼征服，以及随后持续多年的书法等其他领域上的北欧审美的强制推行，到十一世纪末，Insular Minuscule早已被英格兰岛的人民彻底遗忘。然而在远离欧洲政变影响的爱尔兰，爱尔兰人民继续发展滋润着他们的Insular Minuscule。这一来便跨越了整个中世纪，直到今日，Insular Minuscule仍然是盖尔文（Gaelic）的标准字体。
+
+图95.【牛津，博德利图书馆，Ms. Bodley 426, 第76面左侧】这是一份盎格鲁-撒克逊文本（可能是威塞克斯<Wessex>地区），公元800年。
+k·suscipe exoreliiuslegem siue edictum utalii dix erunt. & poneser quaepraecipit etconserua//restituraberisiste factorutuoru k/sireuersus fueis ad omni potentem aedificaberis aliidix erunt peniteat ; aedificaberis id est cotidie reparaberis, siue aedificaberis intem plum scm indno. Siueincogitatione atq, scientiadiprofici endo aedificaberis necessariahaec adpaenitentia cohorta tioest. Quopossint peccatores gloriamperditam reparare/,
+
+
+图96.【牛津，博德利图书馆，Ms. Lat. Bibl. c.8(P),第105面】出自南英格兰的一份更为苍劲的盎格鲁-撒克逊文本。公元800年。
+Que impium condemn abunt im
+Pietatis sin at eum quipec
+cauit dignu uiderint plagis
+prpernent et coram se faci
+ent·uerberari promensura
+peccatierit et plagarum mo
+dum ita dum taxa tut quadra
+gmariu numerum nonexcedant
+
+
+图97.【牛津，博德利图书馆，Ms. Laud Misc. 442, 第10面左侧】约在上一图例范本半个世纪后写成。这份用盎格鲁-撒克逊字体书就得德语文本明显有多处出于书法目的而作的考量。
+Sereno, Credo fines samuel/helias. et petrus tardi fuerunt adiram/et tamen peccantes uel galdio ueluerbo pemert, Sed et moyses cu esset uir mi tissimus. Exiuit apharaone. que incorrigibile, uidit iratus nimis cominatuseipaena
+
+
+插图17. 最常见的连写就是tall-e连写，这个连写可以把e和f、g、i、m、n、p、r、s、t、u、x、y、z连写在一起。这些连写早在这一字体诞生之日即已存在，同时代的可能存在的连写还有：e-j、e-v、e-w。另一个有可能存在过连写是e-d连写（图96，最末一行），但这些“连写”从某种角度说来也仅只是将字母写的特别近而已，由于这是一种为了达到快速书写的目的而设计的功能性字体，图95、96、97、98中的许多字母与相邻的字母都挨得特别近，但这并不能被认为是连写。图示的内容是e-n连写的五种变体（其中两种放在图示最末），以及e-x连写的写法。具体使用哪一种，取决于你在书写时一次性不停笔能完成几次连写。
+
+
+制式小写字体：通常意义上，制式小写字体(Formal Minuscule)是由一群有着相对丰富的Insular Majuscule书写经验同时又乐于给字母加上各种各样的装饰的抄写员们所书写、使用的一种Insular Minuscule的变体。这一变体的具体形式严重取决于书写它的抄写员本身的书法功力以及时间上的闲余。字母左侧的碗形笔画会被扭曲成一个点；descender和acscender会被加以仔细的描画，从而构造出从中间分岔开的长笔画；同时，几乎所有可以向外延展的笔画都被赋予了极富激情的一挥，显得极有律动感。对于这种处理在不同风格的文本中应用的范例，参见图98和配图19.
+
+配图18（反面） 如图是将Insular Majuscule的一些装饰应用到Insular Minuscule中并加以夸张的范例。
+
+
+图98（反面）【都柏林，三一大学，凯尔经，Ms. 58(A.1.6)；上图 第24面左侧，中图 第25面右侧，下图 第23面右侧】一位爱尔兰抄写员在凯尔经中加入的糅合了大写与小写两种风格的制式小写字体。公元790到830年。
+
+Honore est inpatria est suaubi filium pegulisana
+                                          Uit
+Paruit ei increbat eum·terpasce oues
+& cumtertio manifertar& se his chscipulis &tat petro chcens
+meas &sequere                      me
+eos ascendit in caelis
+
+
+
+
+
+
+字体特色：仅从书写这套字体时笔尖的所处的角度（一般是45°以上）以及descender的长度中便能很明显的看出这一字体中的草书（cursive）元素。相较于书写Insular Majuscule时细致严谨的运笔（尤其是在凯尔经一书中，此间还附带有大量的用笔尖侧尖完成的游丝绘饰），Insular Minuscule显得随意松散得多。虽然这一字体中包含有大量大写字体的特征，但在另一个角度上，大写字体中的很多笔法都转而被快速的转笔所替代。显然，在这套字体的书写过程中，你很难确定一个固定的笔尖角度——因为笔尖一直在转。
+Descender应该是一笔写完的，书写时运笔首先向下，然后再沿原轨迹向上返回，这一过程使得抄写员们在抄写经文时能始终将笔尖保持在纸面上从而提高书写效率。若要达到一种更加工整的效果，可以在下行笔画完成时将笔尖提起，然后再从起笔位置下笔，完成下一个笔画。另一处草书的痕迹便是大量的连写。图95到98展示了这一字体的许多范例，首先是一份潦草、紧凑的范本；然后是苍劲古朴、颇具书法气息的；有经仔细考量，字形饱满圆润的；最后是一份附有彩绘装饰，书写非常仔细、认真的范本。所有这些范例中，行间距都留得特别宽。同样，行末单词断开时，也都是从音节结束处断开。
+
+
+大写字母：大写字母一般用与正文字体相同粗细的笔尖书写。抄写员们书写大写字母时一般不将字母尺寸放大，反而往往采取将字母某一部分的写法夸张的办法。一个典型的例子就是，当字母左侧有碗形笔画时，就将这一笔画向外拉神，并把中段缩成一个点。另一种做法就是将这个字母中所有可以拉长的部分拉长，比如acscender、descender，以及弧形部分。总而言之，就是把Formal Minuscule的特点加到大写字母上。
+标点符号：由于这一字体的历史跨度相对较大，标点符号的用法也是一直在改变。关于八世纪前的爱尔兰&盎格鲁-撒克逊时代是的用法，请参阅Insular Majuscule词条，往后几个世纪的用法，请参阅Luxeuil Minuscule、Carolingian Minuscule和Early Gothic词条。
+
+
+
+
+拓展阅读：更多Insular Minuscule的范本可以在Temple的Anglo-Saxon Manuscripts 900-1066以及Henry的 The Book of Kells，Degering的 Lettering，Morison的 Politics and Script，Thompson的 Introduction to Greek and Latin Palaeography，以及Lowe的 Codices Latini Antiquiores。如上书籍中都有大量的爱尔兰、盎格鲁撒克逊版本的Insular Minuscule图片资料。获取更多有关字体历史的信息，请阅读如上Henry、Morison、Thompson的著作，以及Anderson的 The Art of Written Forms，John的 Latin Palaeography，以及Ullman的 Ancient Writing and Its Influence。
+Henry的书中也包含有对Formal Minuscule的广泛讨论。
+
